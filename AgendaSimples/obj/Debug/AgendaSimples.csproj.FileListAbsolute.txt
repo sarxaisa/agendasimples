@@ -1,0 +1,11 @@
+C:\Users\isabelly.srcantuario\source\repos\Nova pasta\agendasimples\AgendaSimples\bin\Debug\AgendaSimples.exe.config
+C:\Users\isabelly.srcantuario\source\repos\Nova pasta\agendasimples\AgendaSimples\bin\Debug\AgendaSimples.exe
+C:\Users\isabelly.srcantuario\source\repos\Nova pasta\agendasimples\AgendaSimples\bin\Debug\AgendaSimples.pdb
+C:\Users\isabelly.srcantuario\source\repos\Nova pasta\agendasimples\AgendaSimples\obj\Debug\AgendaSimples.csproj.AssemblyReference.cache
+C:\Users\isabelly.srcantuario\source\repos\Nova pasta\agendasimples\AgendaSimples\obj\Debug\AgendaSimples.csproj.SuggestedBindingRedirects.cache
+C:\Users\isabelly.srcantuario\source\repos\Nova pasta\agendasimples\AgendaSimples\obj\Debug\AgendaSimples.Form1.resources
+C:\Users\isabelly.srcantuario\source\repos\Nova pasta\agendasimples\AgendaSimples\obj\Debug\AgendaSimples.Properties.Resources.resources
+C:\Users\isabelly.srcantuario\source\repos\Nova pasta\agendasimples\AgendaSimples\obj\Debug\AgendaSimples.csproj.GenerateResource.cache
+C:\Users\isabelly.srcantuario\source\repos\Nova pasta\agendasimples\AgendaSimples\obj\Debug\AgendaSimples.csproj.CoreCompileInputs.cache
+C:\Users\isabelly.srcantuario\source\repos\Nova pasta\agendasimples\AgendaSimples\obj\Debug\AgendaSimples.exe
+C:\Users\isabelly.srcantuario\source\repos\Nova pasta\agendasimples\AgendaSimples\obj\Debug\AgendaSimples.pdb

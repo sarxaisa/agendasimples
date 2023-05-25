@@ -32,14 +32,14 @@ namespace AgendaSimples
                 if (value.Length == 11)
                     Telefone = value;
                 else
-                    Telefone = "00-00000-0000";
+                    Telefone = "00000000000";
             }
         }
         public Contato()
         {
-            PrimeiroNome = "José";
+            PrimeiroNome = "João";
             Sobrenome = "Da Silva";
-            Telefone = " 11-91234-5678";
+            Telefone = " 11912345678";
         }
         public Contato (string primeiroNome, string sobrenome, string telefone)
         {
@@ -52,6 +52,7 @@ namespace AgendaSimples
         {
             string saída = string.Empty;
             saída += String.Format("{0}, (1)", PrimeiroNome, Sobrenome);
+            saída += " ";
             saída += String.Format("{0}-{1}-{2}",
                 Telefone.Substring(0,1), 
                 Telefone.Substring(2,4),

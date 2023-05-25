@@ -72,6 +72,7 @@
             this.txtNome.Name = "txtNome";
             this.txtNome.Size = new System.Drawing.Size(100, 20);
             this.txtNome.TabIndex = 3;
+            this.txtNome.TextChanged += new System.EventHandler(this.txtNome_TextChanged);
             // 
             // txtSobrenome
             // 
@@ -79,6 +80,7 @@
             this.txtSobrenome.Name = "txtSobrenome";
             this.txtSobrenome.Size = new System.Drawing.Size(100, 20);
             this.txtSobrenome.TabIndex = 4;
+            this.txtSobrenome.TextChanged += new System.EventHandler(this.txtSobrenome_TextChanged);
             // 
             // txtTelefone
             // 
@@ -94,6 +96,7 @@
             this.lstContatos.Name = "lstContatos";
             this.lstContatos.Size = new System.Drawing.Size(120, 199);
             this.lstContatos.TabIndex = 6;
+            this.lstContatos.SelectedIndexChanged += new System.EventHandler(this.lstContatos_SelectedIndexChanged);
             // 
             // BtnAddContato
             // 
